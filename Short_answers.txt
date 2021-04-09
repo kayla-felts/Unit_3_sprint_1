@@ -1,0 +1,18 @@
+- What, in your opinion, is an important part of code reviews? That is, what is
+  something you pay attention to when you review code, and that you appreciate
+  when others do the same for your code?
+
+        In my opinion an important part of code reviews is providing quality
+        feedback about excessive code. I greatly appreciate when people also 
+        let me knwo how I can cutdown on the amount of code I have to write
+        to do something and make my code more readable.
+
+- We have an awful lot of computers here, and it gets pretty confusing with
+  slightly different things running on all of them. How could containers help us
+  improve this situation?
+
+        Containers help us improve functionality of code on across multiple 
+        computers by creating an image that contains all the dependencies and 
+        packages that we will need to run the code. So that when someone downloads 
+        and tries to run our code, it will work on thier machince just as well as 
+        on our own machine without having to download every package individually.
