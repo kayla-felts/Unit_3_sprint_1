@@ -40,4 +40,3 @@ class BoxingGlove(Product):
             return 'Hey that hurt!'
         else:
             return 'OUCH!'
-    
